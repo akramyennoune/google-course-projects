@@ -8,7 +8,7 @@ Projects
 
 A full internal security audit for a fictional small business (Botium Toys), conducted using the NIST Cybersecurity Framework. Includes a scope and goals definition, asset inventory, controls and compliance checklist (PCI DSS / GDPR), findings, and prioritized recommendations.
 📄 
-
+[Botium Toys Security Audit](./Botium_Toys_Security_Audit.docx)
 
 Skills Demonstrated:
 
