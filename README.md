@@ -18,8 +18,12 @@ Skills Demonstrated:
 
 
 Security audits & risk assessment
+
 Regulatory compliance analysis (PCI DSS, GDPR)
+
 Security controls evaluation (technical, physical, administrative)
+
 Documentation and professional reporting
+
 
 
